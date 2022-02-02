@@ -6,4 +6,4 @@ Get tutorials and code snippets on various web scraping techniques as well as ti
 
 ## Links to tutorial series
 
-- __Tutorial 1__: *[How to Add Text to an Image Using Python](https://nsikakimoh.com/blog/avoid-being-blocked-when-web-scraping)*.
+- __Tutorial 1__: *[5 Tips to Avoid Being Blocked or Blacklisted During Web Scraping](https://nsikakimoh.com/blog/avoid-being-blocked-when-web-scraping)*.
